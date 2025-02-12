@@ -1,0 +1,13 @@
+#header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+    padding: 10px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+}
