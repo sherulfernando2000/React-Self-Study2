@@ -1,0 +1,17 @@
+.link-list{
+    display: flex;
+
+}
+
+
+.nav-link{
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.nav-link:hover{
+    color: rgb(23, 157, 235);
+}
