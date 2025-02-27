@@ -1,0 +1,10 @@
+ul{
+    border: 2px solid rgb(252, 252, 252);
+
+    background-color: darkcyan;
+    color: white;
+}
+
+ul b{
+    color: black;
+}
